@@ -32,3 +32,19 @@ The Software Development Life Cycle consists of these phases:
 #Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change
 
 #5
+
+#Software Developer. Responsible for writing code and implementing software solutions.
+
+#Quality Assurance Engineer. Ensures software quality by designing and executing test plans.
+
+#Project Manager. Oversees the planning, execution, and delivery of software projects.
+
+#6
+
+#Software engineers utilize various tools to streamline the development process, including:
+
+#Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+
+#Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
+
+#7
