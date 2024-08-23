@@ -48,3 +48,18 @@ The Software Development Life Cycle consists of these phases:
 #Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
 #7
+
+#Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+
+#Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+
+#Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+
+#Strategies for Overcoming Challenges
+
+#Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+
+
+PART 2
+
+#1
