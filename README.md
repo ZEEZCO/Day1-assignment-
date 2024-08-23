@@ -62,4 +62,5 @@ The Software Development Life Cycle consists of these phases:
 
 PART 2
 
-#1
+#1Prompt engineering is like creating a special recipe for your robot, a prompt tells the robot exactly what information you need and how you want it presented.
+Let’s say you want to know how to make a sandwich.
